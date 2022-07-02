@@ -1,0 +1,15 @@
+C:\Users\Yehor\RiderProjects\MyOwnList\MyOwnList\bin\Debug\net6.0\MyOwnList.exe
+C:\Users\Yehor\RiderProjects\MyOwnList\MyOwnList\bin\Debug\net6.0\MyOwnList.deps.json
+C:\Users\Yehor\RiderProjects\MyOwnList\MyOwnList\bin\Debug\net6.0\MyOwnList.runtimeconfig.json
+C:\Users\Yehor\RiderProjects\MyOwnList\MyOwnList\bin\Debug\net6.0\MyOwnList.dll
+C:\Users\Yehor\RiderProjects\MyOwnList\MyOwnList\bin\Debug\net6.0\MyOwnList.pdb
+C:\Users\Yehor\RiderProjects\MyOwnList\MyOwnList\obj\Debug\net6.0\MyOwnList.csproj.AssemblyReference.cache
+C:\Users\Yehor\RiderProjects\MyOwnList\MyOwnList\obj\Debug\net6.0\MyOwnList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yehor\RiderProjects\MyOwnList\MyOwnList\obj\Debug\net6.0\MyOwnList.AssemblyInfoInputs.cache
+C:\Users\Yehor\RiderProjects\MyOwnList\MyOwnList\obj\Debug\net6.0\MyOwnList.AssemblyInfo.cs
+C:\Users\Yehor\RiderProjects\MyOwnList\MyOwnList\obj\Debug\net6.0\MyOwnList.csproj.CoreCompileInputs.cache
+C:\Users\Yehor\RiderProjects\MyOwnList\MyOwnList\obj\Debug\net6.0\MyOwnList.dll
+C:\Users\Yehor\RiderProjects\MyOwnList\MyOwnList\obj\Debug\net6.0\refint\MyOwnList.dll
+C:\Users\Yehor\RiderProjects\MyOwnList\MyOwnList\obj\Debug\net6.0\MyOwnList.pdb
+C:\Users\Yehor\RiderProjects\MyOwnList\MyOwnList\obj\Debug\net6.0\MyOwnList.genruntimeconfig.cache
+C:\Users\Yehor\RiderProjects\MyOwnList\MyOwnList\obj\Debug\net6.0\ref\MyOwnList.dll
